@@ -1,4 +1,20 @@
-# Ing.Software-PASO-DIGITAL
-Repositorio para la tercera prueba
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-2: En la segunda versión se agrego un inicio de sesión, un cambio de idioma para facilitar el uso de la api para usuarios extranjeros, y un sistema de atención al cliente Promp: Agrega una interfaz de inicio de sesión, tambien un soporte de ayuda al usuario y una opción de cambio de idioma a ingles
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/ec3a6b08-cc38-4ec2-a75e-cbff3c3bbecd
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
