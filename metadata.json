@@ -1,0 +1,6 @@
+{
+  "name": "PasoDigital - Aduanas de Chile",
+  "description": "Sistema PasoDigital de la Aduana de Chile para la salida y admisión temporal de vehículos en el paso fronterizo Los Libertadores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
